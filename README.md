@@ -34,7 +34,3 @@ To run the notebook, ensure you have the following:
   - `seaborn`
   - `scikit-learn`
 
-Install the required libraries using the following command:
-
-```bash
-pip install -r requirements.txt
